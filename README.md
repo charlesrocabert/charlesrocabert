@@ -1,6 +1,6 @@
 # Hi there!
 
-I am an evolutionary biologist, who uses computers and mathematics to explore the evolution of complex biological systems. I am studying how evolution and second-order selection shape genotypes, phenotypes and populations in changing environments, with their share of surprising and counter-intuitive effects.
+I am an evolutionary systems biologist, who uses computers and mathematics to explore the evolution of complex biological systems. I am studying how evolution shape genotypes, phenotypes and populations in changing environments, with their share of surprising and counter-intuitive effects.
 
 Check out my Github repositories to learn more about my ongoing modeling projects.
 
