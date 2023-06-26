@@ -6,7 +6,7 @@ Depending on their complexity, I usually consider simulation models as experimen
 
 Check out my Github repositories to learn more about my ongoing modeling projects.
 
-To find out more about me: https://charlesrocabert.github.io/
+To find out more about me: https://charlesrocabert.github.io/.
 
 <p align="center">
   <img src="https://charlesrocabert.github.io/img/hexagons.png" width=150 />
