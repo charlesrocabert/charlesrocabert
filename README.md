@@ -1,6 +1,6 @@
 # Hi there!
 
-I am an evolutionary systems biologist, who uses computers and mathematics to explore the evolution of complex biological systems. I am studying how evolution shape genotypes, phenotypes and populations in changing environments, with their share of surprising and counter-intuitive effects.
+I am an evolutionary biologist, who uses computers and mathematics to explore the evolution of complex biological systems. I am studying how evolution shape genotypes, phenotypes and populations in changing environments, with their share of surprising and counter-intuitive effects.
 
 Depending on their complexity, I usually consider simulation models as experimental systems (<a href="https://doi.org/10.1016/j.tree.2004.07.019" target="_blank">Peck, 2004</a>) &mdash; I conduct <em>in silico</em> experiments in a computer as one would do in the real world (<a href="https://doi.org/10.1038/nrmicro2750" target="_blank">Hindré et al., 2012</a>).
 
