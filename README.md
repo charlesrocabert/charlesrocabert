@@ -9,7 +9,7 @@ Check out my Github repositories to learn more about my ongoing modeling project
 To find out more about me: https://charlesrocabert.github.io/.
 
 <p align="center">
-  <img src="https://charlesrocabert.github.io/img/project4.png" width=250 />
+  <img src="https://charlesrocabert.github.io/img/project4.png" width=200 />
   <br /><br />
   &laquo; <em>Simulations are experimental systems. Their complexity can make them closer cousins in complexity to nature itself than to simple analytic models, but with a powerful advantage over the real world: the modeler has complete control of the system.</em> &raquo; (<a href="https://www.sciencedirect.com/science/article/pii/S0169534704002162?casa_token=rjD7cTRbub4AAAAA:RzBJH8Iwlg-9ZYGpSSQUwJ3_D_BwEbPGyfakBe60kY2ADJhmFN4c7XvF1Yc5jOqioPLrd1IStVg">Peck, 2004</a>).
 </p>
