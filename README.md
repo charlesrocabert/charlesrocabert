@@ -21,5 +21,5 @@ To find out more about me: https://charlesrocabert.github.io/.
 ### Ongoing projects
 
 - :octocat: Growth balance analysis in Python (<a href="https://github.com/charlesrocabert/gbapy" target="_blank">gbapy</a>) and C++ (<a href="https://github.com/charlesrocabert/gbapy" target="_blank">gbacpp</a>)
-- :octocat: Our fresh Github organization for human-mediated dispersal simulation: <a href="https://github.com/MoRIS-Universe" target="_blank">MoRIS Universe</a>
+- :octocat: Our fresh Github organization for our human-mediated dispersal simulation software: <a href="https://github.com/MoRIS-Universe" target="_blank">MoRIS Universe</a>
 
